@@ -42,53 +42,58 @@
 
     <!-- Main Section -->
     <main class="container">
-        <div class="row justify-content-center">
+        <div class="row">
+            <div class="col-0 col-md-1 col-lg-2"></div>
             <!-- Contact Form-->
-            <div class="card">
-                <h5 class="card-header bg-info text-white text-center py-4">
-                    <strong>Contact me</strong>
-                </h5>
-                <!--Card content-->
-                <div class="card-body px-lg-5 pt-0">
-                    <!-- Form -->
-                    <form class="text-center text-secondary" action="#!">
-                        <!-- Name -->
-                        <div class="md-form mt-3">
-                            <label for="materialContactFormName">Name</label>
-                            <input type="text" id="materialContactFormName" class="form-control">
+                <div class="col-12 col-md-10 col-lg-8">
+                    <div class="card">
+                        <h5 class="card-header bg-info text-white text-center py-4">
+                            <strong>Contact me</strong>
+                        </h5>
+                        <!--Card content-->
+                        <div class="card-body px-md-5 pt-0">
+                            <!-- Form -->
+                            <form class="text-center text-secondary" action="#!">
+                                <!-- Name -->
+                                <div class="md-form mt-3">
+                                    <label for="materialContactFormName">Name</label>
+                                    <input type="text" id="materialContactFormName" class="form-control">
+                                </div>
+                                <!-- E-mail -->
+                                <div class="md-form mt-3">
+                                    <label for="materialContactFormEmail">E-mail</label>
+                                    <input type="email" id="materialContactFormEmail" class="form-control">
+                                </div>
+                                <!-- Subject -->
+                                <span>Subject</span>
+                                <select class="mdb-select mt-3">
+                                    <option value="#" disabled>Choose option</option>
+                                    <option value="1">Feedback</option>
+                                    <option value="2">Report a bug</option>
+                                    <option value="3">Feature request</option>
+                                </select>
+                                <!--Message-->
+                                <div class="md-form mt-3">
+                                    <label for="materialContactFormMessage">Message</label>
+                                    <textarea id="materialContactFormMessage" class="form-control md-textarea"
+                                        rows="3"></textarea>
+                                </div>
+                                <!-- Copy -->
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="materialContactFormCopy">
+                                    <label class="form-check-label" for="materialContactFormCopy">Send me a copy of this
+                                        message</label>
+                                </div>
+                                <!-- Send button -->
+                                <button class="btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect"
+                                    type="submit">Submit</button>
+                            </form>
                         </div>
-                        <!-- E-mail -->
-                        <div class="md-form mt-3">
-                            <label for="materialContactFormEmail">E-mail</label>
-                            <input type="email" id="materialContactFormEmail" class="form-control">
-                        </div>
-                        <!-- Subject -->
-                        <span>Subject</span>
-                        <select class="mdb-select mt-3">
-                            <option value="#" disabled>Choose option</option>
-                            <option value="1">Feedback</option>
-                            <option value="2">Report a bug</option>
-                            <option value="3">Feature request</option>
-                        </select>
-                        <!--Message-->
-                        <div class="md-form mt-3">
-                            <label for="materialContactFormMessage">Message</label>
-                            <textarea id="materialContactFormMessage" class="form-control md-textarea"
-                                rows="3"></textarea>
-                        </div>
-                        <!-- Copy -->
-                        <div class="form-check">
-                            <input type="checkbox" class="form-check-input" id="materialContactFormCopy">
-                            <label class="form-check-label" for="materialContactFormCopy">Send me a copy of this
-                                message</label>
-                        </div>
-                        <!-- Send button -->
-                        <button class="btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect"
-                            type="submit">Submit</button>
-                    </form>
+                    </div>
                 </div>
+                <div class="col-0 col-md-1 col-lg-2"></div>
             </div>
-        </div>
+            
     </main>
 
     <!-- Footer -->
