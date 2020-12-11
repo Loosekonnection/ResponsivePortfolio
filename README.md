@@ -1,5 +1,4 @@
-# homeworkResponsivePortfolio
-WK03 Homework - 02 Responsive Portfolio
+# Portfolio Site with Responsive Design
 
 ## Approach
 
@@ -10,11 +9,13 @@ Following the directions of the provided README file, I whiteboarded a rough out
 *   Main
 *   Footer
 
+![alt](img/whiteboard.jpg)
+
 I then created the following repository on GitLab:
 
-*   homeworkResponsivePortfolio
+*   [ResponsivePortfolio](https://github.com/Loosekonnection/CodeRefactor)
 
-after cloning the above respository, I created the following files locally and then pushed them to the repo:
+After cloning the above respository, I created the following files locally and then pushed them back to the repo:
 
 *   index.html
 *   portfolio.html
@@ -50,7 +51,7 @@ After finally being happy with the structure and responsive design I ran the cod
 
 ## Findings
 
-The homework focussed on Bootstrap and I was unsure whether I was allowed to use my own CSS styles. The README guide wasn't clear, however it advised to minimise the use of Breakpoints, which is normally in a CSS file I thought.
+The homework focussed on Bootstrap and I was unsure whether I was allowed to use my own CSS styles. The README guide wasn't clear, however it advised to minimise the use of Breakpoints, which are normally defined in a CSS file I thought.
 
 I tired to build the site without using my own CSS file, I found Bootstrap excellent for speed of creating ellements and sections, but limiting on being able to style them.
 
