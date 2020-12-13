@@ -52,7 +52,8 @@ After finally being happy with the structure and responsive design I ran the cod
 *   The site can be viewed using the following link: [Dave's Portfolio Website]()
 
 *   Home Page Screenshot:
-![alt]()
+
+![alt](img/index_screenshot.PNG)
 
 *   Portfolio Page Screenshot:
 
