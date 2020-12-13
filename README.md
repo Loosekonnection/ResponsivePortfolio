@@ -72,9 +72,17 @@ The homework focussed on Bootstrap and I was unsure whether I was allowed to use
 
 I tired to build the site without using my own CSS file, I found Bootstrap excellent for speed of creating ellements and sections, but limiting on being able to style them.
 
-I tried to create a fixed footer and while I found it easy to create the fixed footer, I could not figure out how to prevent the `<body>` from being hidden behind the footer unless I created my own CSS file and used a `margin-bottom` on the `<body>` element. This was very challanging!
+I tried to create a fixed footer and while I found it easy to create the fixed footer, I could not figure out how to prevent the `<body>` from being hidden behind the footer unless I created my own CSS file and used a `margin-bottom` on the `<body>` element. This was very challanging! Whichever method I chose the Footer would float infront of the body content unless I added margin to the bottom of the body, but even the Bootstrap mb-(1-5) class would give me the result I required.
 
-It would be great to next get the contact form working with an email service.
+<br>
+
+---
+
+## Next Steps
+
+I'm looking forward to progressing the site further as my coding skills and project library grows. 
+
+It would be great to get the contact form working with an email service too.
 
 <br>
 
