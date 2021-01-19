@@ -49,7 +49,7 @@ After finally being happy with the structure and responsive design I ran the cod
 ---
 ## Final site
 
-*   The site can be viewed using the following link: [Dave's Portfolio Website]()
+*   The site can be viewed using the following link: [Dave's Portfolio Website](https://loosekonnection.github.io/responsivePortfolio/)
 
 *   Home Page Screenshot:
 
