@@ -33,9 +33,17 @@ I have setup the contact form to use [Formspree](https://formspree.io/), so if y
 
 ## Final site
 
-*   The site is responsive and works on all devices and has three pages.
-*   The navbar is consistent across all pages with a link to my GitHub, Home, Portfolio & Contact page.
-*   The footer is also consistent across all pages, it contains links to my GitHub, Twiiter & LinkedIn accounts. 
+*   The site is responsive and works across all devices.
+*   The site consists of three pages.
+*   The navbar is consistent across all of the pages with a links to:
+    *   GitHub profile 
+    *   Home Page
+    *   Portfolio Page 
+    *   Contact Form Page
+*   The footer is also consistent across all pages, it contains links to:
+    *   GitHub Profile
+    *   Twiiter Profile
+    *   LinkedIn Profile. 
 
 *   Home Page Screenshot:
 
@@ -57,7 +65,15 @@ I have setup the contact form to use [Formspree](https://formspree.io/), so if y
 
 ## Next Steps
 
-As I improve in my coding abilities, I will continue to produce and add more projects, and enhance my existing projects in areas I upskill in. I may also integrate some of the projects directly within my portfolio site for use in a single site, while also keeping copy in seperate repositories. 
+As I improve in my coding abilities: 
+
+I will continue to produce and add more projects.
+
+I will enhance my existing projects in areas I upskill in. 
+
+I may also integrate some of the projects directly within my portfolio.
+
+While also keeping copy in seperate repositories. 
 
 <br>
 
@@ -65,7 +81,9 @@ As I improve in my coding abilities, I will continue to produce and add more pro
 
 ## Credits & Links
 
-I have used many different training sites and coding resources throughout the creation of my projects, please find a list with links to the sites below:
+I have used many different training sites and coding resources throughout the creation of my projects.
+
+Below is a list with links to the sites I used:
 
 *   The Net Ninja:
     *   [Website](https://www.thenetninja.co.uk/)
