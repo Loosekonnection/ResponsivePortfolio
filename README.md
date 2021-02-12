@@ -1,18 +1,22 @@
-# Portfolio
+# My Portfolio
 
 My portfolio website with a mobile first responsive design in mind.
 
 *   GitHub Repository [responsivePortfolio](https://github.com/Loosekonnection/responsivePortfolio)
-*   GitHub Pages URL [Weather Dashboard Webpage](https://loosekonnection.github.io/responsivePortfolio/)
+*   GitHub Pages URL [responsivePortfolio](https://loosekonnection.github.io/responsivePortfolio/)
 ---
 
 <br>
 
 ## Summary
 
-My portfolio site is to display a collection of my projects in a single easy to view place. On the site there are links to the site URL's on GitHub and links to the GitHub repositories.
+My portfolio site provides a brief summary about me, and then displays a collection of my projects. 
 
-I have setup the contact form to use [Formspree](https://formspree.io/), so if you wish to reach out I can be contacted via the webform.
+On this site there are links to the site URL's on GitHub and links to the GitHub repositories.
+
+I have setup the contact form that uses [Formspree](https://formspree.io/), so if you wish to reach out I can be contacted via the webform.
+
+Below is a summary of Tech used and some screen shots of the site, then a list of credits who have bee exetremely helpful throughout my coding journey so far.
 
 <br>
 
@@ -22,8 +26,10 @@ I have setup the contact form to use [Formspree](https://formspree.io/), so if y
 
 ## Technolgies Used
 
-*   HMTL [w3schools.com Learn HTML](https://www.w3schools.com/html/default.asp)
 *   CSS [w3schools.com Learn CSS](https://www.w3schools.com/css/default.asp)
+
+*   HMTL [w3schools.com Learn HTML](https://www.w3schools.com/html/default.asp)
+
 *   Bootstrap 
     *   [w3schools.com Bootstrap4 Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
     *   [Bootstraps Site](https://getbootstrap.com/)
@@ -33,8 +39,8 @@ I have setup the contact form to use [Formspree](https://formspree.io/), so if y
 
 ## Final site
 
-*   The site is responsive and works across all devices.
-*   The site consists of three pages.
+*   The site is responsive and works well across all devices.
+*   The site currently consists of three pages.
 *   The navbar is consistent across all of the pages with a links to:
     *   GitHub profile 
     *   Home Page
@@ -67,13 +73,13 @@ I have setup the contact form to use [Formspree](https://formspree.io/), so if y
 
 As I improve in my coding abilities: 
 
-I will continue to produce and add more projects.
+I will continue to produce and update the site with more projects.
 
 I will enhance my existing projects in areas I upskill in. 
 
 I may also integrate some of the projects directly within my portfolio.
 
-While also keeping copy in seperate repositories. 
+While also keeping copies in seperate repositories. 
 
 <br>
 
